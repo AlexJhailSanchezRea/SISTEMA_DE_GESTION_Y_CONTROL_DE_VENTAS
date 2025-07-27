@@ -1,0 +1,9 @@
+c:\users\victus\documents\visual studio 2015\Projects\LOGIN\LOGIN\bin\Debug\LOGIN.exe.config
+c:\users\victus\documents\visual studio 2015\Projects\LOGIN\LOGIN\bin\Debug\LOGIN.exe
+c:\users\victus\documents\visual studio 2015\Projects\LOGIN\LOGIN\bin\Debug\LOGIN.pdb
+c:\users\victus\documents\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.csprojResolveAssemblyReference.cache
+c:\users\victus\documents\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.Login.resources
+c:\users\victus\documents\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.Properties.Resources.resources
+c:\users\victus\documents\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.GenerateResource.Cache
+c:\users\victus\documents\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.exe
+c:\users\victus\documents\visual studio 2015\Projects\LOGIN\LOGIN\obj\Debug\LOGIN.pdb

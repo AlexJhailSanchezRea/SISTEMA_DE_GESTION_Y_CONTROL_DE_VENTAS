@@ -1,0 +1,11 @@
+C:\Users\VICTUS\Documents\Visual Studio 2015\Projects\LOGIN\DAL\bin\Debug\DAL.dll
+C:\Users\VICTUS\Documents\Visual Studio 2015\Projects\LOGIN\DAL\bin\Debug\DAL.pdb
+C:\Users\VICTUS\Documents\Visual Studio 2015\Projects\LOGIN\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\VICTUS\Documents\Visual Studio 2015\Projects\LOGIN\DAL\obj\Debug\DAL.dll
+C:\Users\VICTUS\Documents\Visual Studio 2015\Projects\LOGIN\DAL\obj\Debug\DAL.pdb
+C:\Users\alexs\Documents\proyectos visual studio_\LOGIN\DAL\bin\Debug\DAL.dll
+C:\Users\alexs\Documents\proyectos visual studio_\LOGIN\DAL\bin\Debug\DAL.pdb
+C:\Users\alexs\Documents\proyectos visual studio_\LOGIN\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\alexs\Documents\proyectos visual studio_\LOGIN\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\alexs\Documents\proyectos visual studio_\LOGIN\DAL\obj\Debug\DAL.dll
+C:\Users\alexs\Documents\proyectos visual studio_\LOGIN\DAL\obj\Debug\DAL.pdb

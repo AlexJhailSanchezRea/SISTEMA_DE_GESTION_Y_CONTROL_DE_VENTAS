@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexs\\Downloads\\LOGIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|c:\\users\\alexs\\downloads\\login\\login\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|solutionrelative:login\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|C:\\Users\\alexs\\Downloads\\LOGIN\\login\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|solutionrelative:login\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|C:\\Users\\alexs\\Downloads\\LOGIN\\login\\menu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|solutionrelative:login\\menu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|C:\\Users\\alexs\\Downloads\\LOGIN\\login\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|solutionrelative:login\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|C:\\Users\\alexs\\Downloads\\LOGIN\\login\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|solutionrelative:login\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|C:\\Users\\alexs\\Downloads\\LOGIN\\login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|solutionrelative:login\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|C:\\Users\\alexs\\Downloads\\LOGIN\\login\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|solutionrelative:login\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|C:\\Users\\alexs\\Downloads\\LOGIN\\login\\stockvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|solutionrelative:login\\stockvehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|C:\\Users\\alexs\\Downloads\\LOGIN\\login\\stockacesorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|solutionrelative:login\\stockacesorios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|C:\\Users\\alexs\\Downloads\\LOGIN\\login\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|solutionrelative:login\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|C:\\Users\\alexs\\Downloads\\LOGIN\\login\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|solutionrelative:login\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A71FC5B2-47C1-4415-A2D0-9E05C1FDA939}|DAL\\DAL.csproj|C:\\Users\\alexs\\Downloads\\LOGIN\\dal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A71FC5B2-47C1-4415-A2D0-9E05C1FDA939}|DAL\\DAL.csproj|solutionrelative:dal\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|C:\\Users\\alexs\\Downloads\\LOGIN\\login\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{2660707B-1BCC-497F-97D8-7892CCB9EC5F}|LOGIN\\BEATIFUL.csproj|solutionrelative:login\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MENU.resx",
+              "DocumentMoniker": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\MENU.resx",
+              "RelativeDocumentMoniker": "LOGIN\\MENU.resx",
+              "ToolTip": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\MENU.resx",
+              "RelativeToolTip": "LOGIN\\MENU.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-27T01:16:07.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MENU.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\MENU.cs",
+              "RelativeDocumentMoniker": "LOGIN\\MENU.cs",
+              "ToolTip": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\MENU.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LOGIN\\MENU.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T23:35:12.925Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MENU.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\MENU.cs",
+              "RelativeDocumentMoniker": "LOGIN\\MENU.cs",
+              "ToolTip": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\MENU.cs",
+              "RelativeToolTip": "LOGIN\\MENU.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIAwwD8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T23:41:03.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\Login.cs",
+              "RelativeDocumentMoniker": "LOGIN\\Login.cs",
+              "ToolTip": "C:\\Users\\alexs\\Documents\\proyectos visual studio_\\LOGIN\\LOGIN\\Login.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Documents\\proyectos visual studio_\\LOGIN\\LOGIN\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T23:35:10.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EMPLEADOS.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\EMPLEADOS.cs",
+              "RelativeDocumentMoniker": "LOGIN\\EMPLEADOS.cs",
+              "ToolTip": "C:\\Users\\alexs\\Documents\\proyectos visual studio_\\LOGIN\\LOGIN\\EMPLEADOS.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Documents\\proyectos visual studio_\\LOGIN\\LOGIN\\EMPLEADOS.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T23:35:27.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VENTA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\VENTA.cs",
+              "RelativeDocumentMoniker": "LOGIN\\VENTA.cs",
+              "ToolTip": "C:\\Users\\alexs\\Documents\\proyectos visual studio_\\LOGIN\\LOGIN\\VENTA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Documents\\proyectos visual studio_\\LOGIN\\LOGIN\\VENTA.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T23:35:21.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CLIENTE.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\CLIENTE.cs",
+              "RelativeDocumentMoniker": "LOGIN\\CLIENTE.cs",
+              "ToolTip": "C:\\Users\\alexs\\Documents\\proyectos visual studio_\\LOGIN\\LOGIN\\CLIENTE.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Documents\\proyectos visual studio_\\LOGIN\\LOGIN\\CLIENTE.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T23:35:06.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "STOCKVEHICULOS.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\STOCKVEHICULOS.cs",
+              "RelativeDocumentMoniker": "LOGIN\\STOCKVEHICULOS.cs",
+              "ToolTip": "C:\\Users\\alexs\\Documents\\proyectos visual studio_\\LOGIN\\LOGIN\\STOCKVEHICULOS.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Documents\\proyectos visual studio_\\LOGIN\\LOGIN\\STOCKVEHICULOS.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T23:35:04.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "STOCKACESORIOS.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\STOCKACESORIOS.cs",
+              "RelativeDocumentMoniker": "LOGIN\\STOCKACESORIOS.cs",
+              "ToolTip": "C:\\Users\\alexs\\Documents\\proyectos visual studio_\\LOGIN\\LOGIN\\STOCKACESORIOS.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Documents\\proyectos visual studio_\\LOGIN\\LOGIN\\STOCKACESORIOS.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T23:35:03.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "REPORTES.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\REPORTES.cs",
+              "RelativeDocumentMoniker": "LOGIN\\REPORTES.cs",
+              "ToolTip": "C:\\Users\\alexs\\Documents\\proyectos visual studio_\\LOGIN\\LOGIN\\REPORTES.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\Documents\\proyectos visual studio_\\LOGIN\\LOGIN\\REPORTES.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T23:35:01.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "LOGIN\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\Login.Designer.cs",
+              "RelativeToolTip": "LOGIN\\Login.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T22:54:58.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClienteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\alexs\\Downloads\\LOGIN\\DAL\\ClienteDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ClienteDAL.cs",
+              "ToolTip": "C:\\Users\\alexs\\Downloads\\LOGIN\\DAL\\ClienteDAL.cs",
+              "RelativeToolTip": "DAL\\ClienteDAL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T23:22:40.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.resx",
+              "DocumentMoniker": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\Login.resx",
+              "RelativeDocumentMoniker": "LOGIN\\Login.resx",
+              "ToolTip": "C:\\Users\\alexs\\Downloads\\LOGIN\\LOGIN\\Login.resx",
+              "RelativeToolTip": "LOGIN\\Login.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-26T22:54:53.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
