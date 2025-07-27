@@ -45,7 +45,7 @@ Sistema integral desarrollado en C# con arquitectura en capas para la gestión e
 ## 🏗 Arquitectura del Sistema
 
 <div align="center">
-  <img src="docs/images/architecture.png" alt="Arquitectura" width="400"/>
+  <img src="docs/images/architecture.png" alt="Arquitectura" width="300"/>
 </div>
 
 El sistema está construido siguiendo una arquitectura en capas:
