@@ -31,7 +31,7 @@
 ## 🎯 Sobre el Proyecto
 
 <div align="center">
-  <img src="docs/images/dashboard.png" alt="Dashboard" width="200"/>
+  <img src="docs/images/dashboard.png" alt="Dashboard" width="800"/>
 </div>
 
 Sistema integral desarrollado en C# con arquitectura en capas para la gestión empresarial, incluyendo:
@@ -45,7 +45,7 @@ Sistema integral desarrollado en C# con arquitectura en capas para la gestión e
 ## 🏗 Arquitectura del Sistema
 
 <div align="center">
-  <img src="docs/images/architecture.png" alt="Arquitectura" width="800"/>
+  <img src="docs/images/architecture.png" alt="Arquitectura" width="400"/>
 </div>
 
 El sistema está construido siguiendo una arquitectura en capas:
